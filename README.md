@@ -1,17 +1,94 @@
-# About me 
+<div align="center">
 
-* Im a Fivem Developer 
+# Hi, Im Maximaalinen
 
+### 🚀 FiveM Developer
 
+<img src="https://komarev.com/ghpvc/?username=Maximaalinen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-![](https://komarev.com/ghpvc/?username=Maximaalinen&style=flat-square)
-Contact me 
-https://discord.gg/jE3aWNMUPE
+- 🔭 Currently working on **:herb: High Development**
+- 🎯 Goal: **Make quality FiveM scripts!**
 
-<img width="150" height="150" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/5c821953-3d5f-44f5-a8eb-357834890411" />
-<img width="150" height="150" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c75612f6c75612d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/9595385e-e3ff-4b7a-91bf-f38a96368eb7"/>
-<img width="150" height="150" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/ab19a44a-8c0e-4a55-9f2f-daa1d36bc6a1" />
-<img width="150" height="150" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/a3ea8273-f57f-423f-b352-a83056566854" />
+---
+
+## 🛠️ Teck Info
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,lua,html,css" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,linux" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Maximaalinen">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://discord.gg/jE3aWNMUPE">
+<img src="https://skillicons.dev/icons?i=discord" width="45"/>
+</a>
+
+<a href="https://www.youtube.com/@high-development">
+<img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
+</a>
+
+<a href="https://www.tiktok.com/@high.development8">
+<img src="https://cdn.simpleicons.org/tiktok/white" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Setup
+
+```text
+💻 OS: Windows 10
+🖥️ Editor: VS Code
+⚙️ Terminal: PowerShell
+🌐 Browser: Brave
+☕ Caffeine: Required
+🚬 Nicotine; Required
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
