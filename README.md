@@ -63,7 +63,7 @@
 
 ---
 
-## 💻 Setup
+## 💻 My setup
 
 ```text
 💻 OS: Windows 10
