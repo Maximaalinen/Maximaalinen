@@ -59,6 +59,8 @@
 <img src="https://cdn.simpleicons.org/tiktok/white" width="45"/>
 </a>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximaalinen&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
