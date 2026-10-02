@@ -66,7 +66,7 @@
 ## 💻 My setup
 
 ```text
-💻 OS: Windows 10
+💻 OS: Windows 11
 🖥️ Editor: VS Code
 ⚙️ Terminal: PowerShell
 🌐 Browser: Brave
